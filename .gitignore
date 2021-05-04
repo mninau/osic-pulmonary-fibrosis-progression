@@ -1,0 +1,21 @@
+# DATA
+osic-pulmonary-fibrosis-progression/test/*
+osic-pulmonary-fibrosis-progression/test_pre/*
+osic-pulmonary-fibrosis-progression/test-scans-512/*
+osic-pulmonary-fibrosis-progression/train/*
+osic-pulmonary-fibrosis-progression/train_pre/*
+osic-pulmonary-fibrosis-progression/*.zip
+results*
+
+# OTHER FOLDER
+otros
+src/images
+
+# libs
+plaidml*
+
+# ipynb
+*.ipynb_*
+
+# macos
+.DS_Store
